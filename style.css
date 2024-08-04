@@ -149,4 +149,11 @@ section{
     nav li:hover a{
         padding: 5px 10px 10px 10px;
     }
+    .right{
+    }
+    .right, p{
+        margin: auto;
+        font-size: 10px;
+        margin-left: 8px;
+    }
 }
